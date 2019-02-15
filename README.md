@@ -17,8 +17,8 @@
 npm install expo
 npm install @expo/vector-icons
 npm install -g expo-cli
-npm install -g npm@4.6.1<br>
-npm install --save react@16.5.0<br>
+npm install -g npm@4.6.1
+npm install --save react@16.5.0
 npm install<br>
 ```
 ## Screenshots
