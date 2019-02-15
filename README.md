@@ -23,6 +23,7 @@ npm install<br>
 ```
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/19398004/52889850-d3f90300-314f-11e9-9727-91eced6f71e7.png)
-![image](https://user-images.githubusercontent.com/19398004/52883795-27f8ed00-313a-11e9-848e-3abd6d43e442.png)
-![image](https://user-images.githubusercontent.com/19398004/52883823-3b0bbd00-313a-11e9-8fa3-8947f020071c.png)
+![image](https://user-images.githubusercontent.com/19398004/52889922-38b45d80-3150-11e9-9132-b05fc62bc2ac.png)
+![image](https://user-images.githubusercontent.com/19398004/52889936-44078900-3150-11e9-9492-71fbd41d07a7.png)
+
 
